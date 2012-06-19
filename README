@@ -1,0 +1,15 @@
+The tinyIMU is a small, simple-to-use triple-axis accelerometer and gyroscope breakout board.
+
+Features:
+	-BMA220 3-axis accelerometer
+	-L3G4200D 3-axis gyroscope
+	-3.3V operation
+	-Onboard 1.8V regulator for BMA220
+	-SPI or I2C communication interface
+	-Accelerometer interrupt output
+	-Gyroscope "data ready" output
+	-Small size - 1.05" x 0.75"
+
+This is NOT the same tinyIMU as the one from Youritronics. They are NOT compatible with each other. Besides using different devices, the Youritronics model has 9 degrees of freedom, where this one only has 6.
+
+Arduino library coming soon!
